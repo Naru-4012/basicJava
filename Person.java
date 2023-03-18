@@ -1,8 +1,6 @@
 package com.basic.demo;
 
 public class Person {
-
-	public static void main(String[] args) {
 		
 		int adhaar;
 		String name;
